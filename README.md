@@ -1,0 +1,2 @@
+# The-2021-South-Pacific-Independent-Regional-Contest-Divisional
+On October 16 2021, 86 teams competed in the 2021 South Pacific Programming Contest. These teams came from 15 different universities in Australia and New Zealand, as well as a number of high schools, and were competing from a number of countries and formats, as Covid-9 kept some borders shut and cities locked down. Despite the challenges, the contest ran in good spirits and the judge team had no concerns over the conduct.
